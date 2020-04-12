@@ -1,0 +1,273 @@
+Namespace(batch_size=30, decay_rate=0.7, decay_step=20000, gpu=0, learning_rate=0.0001, log_dir='log_meng', max_epoch=250, model='pointnet_cls', momentum=0.9, num_point=2048, optimizer='adam')
+**** EPOCH 000 ****
+----0-----
+mean loss: 2.308973
+accuracy: 0.191667
+----1-----
+mean loss: 2.112901
+accuracy: 0.233333
+----0-----
+----1-----
+eval mean loss: 1.869404
+eval accuracy: 0.133333
+eval avg class acc: nan
+Model saved in file: log_meng\model.ckpt
+**** EPOCH 001 ****
+----0-----
+mean loss: 2.306848
+accuracy: 0.141667
+----1-----
+mean loss: 2.164658
+accuracy: 0.216667
+----0-----
+----1-----
+eval mean loss: 1.612822
+eval accuracy: 0.133333
+eval avg class acc: nan
+**** EPOCH 002 ****
+----0-----
+mean loss: 2.153485
+accuracy: 0.208333
+----1-----
+mean loss: 2.103319
+accuracy: 0.216667
+----0-----
+----1-----
+eval mean loss: 1.787692
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 003 ****
+----0-----
+mean loss: 2.101345
+accuracy: 0.241667
+----1-----
+mean loss: 2.056448
+accuracy: 0.233333
+----0-----
+----1-----
+eval mean loss: 1.709846
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 004 ****
+----0-----
+mean loss: 1.954172
+accuracy: 0.225000
+----1-----
+mean loss: 1.944373
+accuracy: 0.258333
+----0-----
+----1-----
+eval mean loss: 1.719563
+eval accuracy: 0.133333
+eval avg class acc: nan
+**** EPOCH 005 ****
+----0-----
+mean loss: 2.023564
+accuracy: 0.266667
+----1-----
+mean loss: 2.008608
+accuracy: 0.266667
+----0-----
+----1-----
+eval mean loss: 1.742168
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 006 ****
+----0-----
+mean loss: 2.030334
+accuracy: 0.216667
+----1-----
+mean loss: 2.094295
+accuracy: 0.208333
+----0-----
+----1-----
+eval mean loss: 1.647456
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 007 ****
+----0-----
+mean loss: 1.925388
+accuracy: 0.233333
+----1-----
+mean loss: 2.028279
+accuracy: 0.241667
+----0-----
+----1-----
+eval mean loss: 1.763352
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 008 ****
+----0-----
+mean loss: 1.941470
+accuracy: 0.241667
+----1-----
+mean loss: 1.920538
+accuracy: 0.233333
+----0-----
+----1-----
+eval mean loss: 1.686119
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 009 ****
+----0-----
+mean loss: 2.041760
+accuracy: 0.216667
+----1-----
+mean loss: 1.877445
+accuracy: 0.291667
+----0-----
+----1-----
+eval mean loss: 1.671453
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 010 ****
+----0-----
+mean loss: 2.072833
+accuracy: 0.250000
+----1-----
+mean loss: 1.971268
+accuracy: 0.183333
+----0-----
+----1-----
+eval mean loss: 1.799892
+eval accuracy: 0.166667
+eval avg class acc: nan
+Model saved in file: log_meng\model.ckpt
+**** EPOCH 011 ****
+----0-----
+mean loss: 2.240107
+accuracy: 0.125000
+----1-----
+mean loss: 1.867968
+accuracy: 0.258333
+----0-----
+----1-----
+eval mean loss: 1.724392
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 012 ****
+----0-----
+mean loss: 2.020046
+accuracy: 0.225000
+----1-----
+mean loss: 1.793126
+accuracy: 0.316667
+----0-----
+----1-----
+eval mean loss: 1.632908
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 013 ****
+----0-----
+mean loss: 1.935807
+accuracy: 0.291667
+----1-----
+mean loss: 1.837491
+accuracy: 0.216667
+----0-----
+----1-----
+eval mean loss: 1.681679
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 014 ****
+----0-----
+mean loss: 1.931335
+accuracy: 0.233333
+----1-----
+mean loss: 1.848659
+accuracy: 0.216667
+----0-----
+----1-----
+eval mean loss: 1.564795
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 015 ****
+----0-----
+mean loss: 1.836745
+accuracy: 0.283333
+----1-----
+mean loss: 1.936958
+accuracy: 0.200000
+----0-----
+----1-----
+eval mean loss: 1.530777
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 016 ****
+----0-----
+mean loss: 1.858559
+accuracy: 0.200000
+----1-----
+mean loss: 1.761812
+accuracy: 0.308333
+----0-----
+----1-----
+eval mean loss: 1.479765
+eval accuracy: 0.500000
+eval avg class acc: nan
+**** EPOCH 017 ****
+----0-----
+mean loss: 1.874496
+accuracy: 0.250000
+----1-----
+mean loss: 1.806364
+accuracy: 0.266667
+----0-----
+----1-----
+eval mean loss: 1.520230
+eval accuracy: 0.500000
+eval avg class acc: nan
+**** EPOCH 018 ****
+----0-----
+mean loss: 1.931696
+accuracy: 0.200000
+----1-----
+mean loss: 1.918584
+accuracy: 0.233333
+----0-----
+----1-----
+eval mean loss: 1.486116
+eval accuracy: 0.500000
+eval avg class acc: nan
+**** EPOCH 019 ****
+----0-----
+mean loss: 1.812781
+accuracy: 0.275000
+----1-----
+mean loss: 1.987418
+accuracy: 0.241667
+----0-----
+----1-----
+eval mean loss: 1.579550
+eval accuracy: 0.166667
+eval avg class acc: nan
+**** EPOCH 020 ****
+----0-----
+mean loss: 1.953878
+accuracy: 0.241667
+----1-----
+mean loss: 1.835632
+accuracy: 0.250000
+----0-----
+----1-----
+eval mean loss: 1.656496
+eval accuracy: 0.166667
+eval avg class acc: nan
+Model saved in file: log_meng\model.ckpt
+**** EPOCH 021 ****
+----0-----
+mean loss: 1.802081
+accuracy: 0.275000
+----1-----
+mean loss: 1.869306
+accuracy: 0.250000
+----0-----
+----1-----
+eval mean loss: 1.528565
+eval accuracy: 0.350000
+eval avg class acc: nan
+**** EPOCH 022 ****
+----0-----
+mean loss: 1.821972
+accuracy: 0.283333
+----1-----
