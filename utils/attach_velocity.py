@@ -11,8 +11,8 @@ def attach_velocity(dir,index,index2,born_dir):
         for element in inter_list:
             destination_file.writelines(element + '\n')
 
-dir_name = "E:\\meng\\dataset\\2048_pointcloud_normalize"
-dir_born = "E:\\meng\\dataset\\2048_velocity_pointcloud"
+dir_name = ".\\car-model\\2048_pointcloud_normalize"
+dir_born = ".\\car-model\\2048_velocity_pointcloud"
 
 for k in range(1,31):
     for p in range(0,10):

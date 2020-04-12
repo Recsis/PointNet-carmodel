@@ -1,7 +1,7 @@
 import h5py
 import numpy as np
 from utils import get_classfiy as gc
-database = "E:\\meng\\pointnet-car\\car-model\\2048_velocity_pointcloud"
+database = ".\\car-model\\2048_velocity_pointcloud"
 
 def save_h5(h5_filename, data, label, data_dtype=np.float32, label_dtype='uint8'):
     h5_fout = h5py.File(h5_filename)

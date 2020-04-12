@@ -1,6 +1,6 @@
 import numpy as np
 
-labelfile = "E:\\meng\\pointnet-car\\car-model\\test1.txt"
+labelfile = ".\\car-model\\test1.txt"
 def get_class():
     y_label = np.loadtxt(labelfile,dtype=np.float32).reshape(30,1)
     #print(y_label)
